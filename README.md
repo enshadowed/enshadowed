@@ -17,7 +17,7 @@
 
 - 👨‍💻 Most of my projects / commits are NOT available due to NDAs [#](#)
 
-- 📝 I regularly create stories on [nopixel.net](nopixel.net)
+- 📝 I regularly create stories on [nopixel.net](https://nopixel.net)
 
 - 💬 Ask me about **SAP Business One, Big Data, Teradata, .net**
 
