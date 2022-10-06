@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Teradata tools**
 
-- 🤝 I’m looking for help with **FiveM Natives**
+- 🤝 I’m looking to learn more about **FiveM Natives**
 
 - 👨‍💻 Most of my projects / commits are NOT available due to NDAs [#](#)
 
