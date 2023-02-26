@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **info@enshadowed.net**
 
-- ⚡ Fun fact **Tobii is the bomb**
+- ⚡ Fun fact **Stebbzor is the bomb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
