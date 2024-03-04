@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm enshadowed_</h1>
-<h3 align="center">A junior software developer from Cyprus</h3>
+<h3 align="center">A software developer from Cyprus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enshadowed&label=Profile%20views&color=e75f04&style=flat-square" alt="enshadowed" /> </p>
 
@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/enshadowed_" target="blank"><img src="https://img.shields.io/twitter/follow/enshadowed_?logo=twitter&style=for-the-badge" alt="enshadowed_" /></a> </p>
 
-- 🔭 I’m currently working on **Data Warehouse Services**
+- 🔭 I’m currently working on **Business Process Automation**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Teradata tools**
+- 👯 I’m looking to collaborate on **Tactical Wireless Intelligence Tools**
 
-- 🤝 I’m looking to learn more about **FiveM Natives**
+- 🤝 I’m looking to learn more about **Javascript**
 
 - 👨‍💻 Most of my projects / commits are NOT available due to NDAs [#](#)
 
 - 📝 I regularly create stories on [nopixel.net](https://nopixel.net)
 
-- 💬 Ask me about **SAP Business One, Big Data, Teradata, .net**
+- 💬 Ask me about **SAP Business One, Big Data, Teradata, .net, B1Studio, B1ServiceLayer**
 
 - 📫 How to reach me **info@enshadowed.net**
 
-- ⚡ Fun fact **Stebbzor is the bomb**
+- ⚡ Fun fact **Hello World, is the beginning of a long journey.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
